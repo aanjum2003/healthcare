@@ -72,7 +72,9 @@ Query 2 lists physicians’ names who did not have any visits on April 29, 2023.
 <img width="629" alt="Screen Shot 2023-11-03 at 6 18 54 PM" src="https://github.com/aanjum2003/healthcare/assets/148798153/8e673392-ee87-4427-a727-b5c143b341b5">
 
 
-This query can allow managers to quickly identify which physicians did not see any patients on a particular day. This will help them when they are scheduling the physicians for the upcoming weeks.
+
+This query can allow managers to quickly identify which physicians did not see any patients on a particular day. This provides information that will be useful when they are scheduling the physicians for the upcoming weeks. The insights we derive from this query will help managers fine tune each physician’s schedule which is important for the overall success of the medical center.
+
 
 Query 3: 
 
@@ -94,8 +96,7 @@ Query 5:
 Query 5 lists the patients with a total billing amount exceeding 3000 dollars.
 <img width="631" alt="Screen Shot 2023-11-03 at 6 14 01 PM" src="https://github.com/aanjum2003/healthcare/assets/148798153/d55154b9-c732-4ed7-aff8-6a9a0a8b7074">
 
-
-Query 5 enables clinic managers to find which patients have spent $3000 or more on a single bill for a visit, in case the the managers would like to decide to give a future discount or rebate to those patients.
+This query enables clinic managers to find which patients have spent over $3,000 total over all of their visits. The clinic policy is that once a patient has been billed over $3,000 they have the option to enroll in the clinic’s payment plan to pay on a monthly basis. This is designed for patients with frequent visits.
 
 Query 6:
 
