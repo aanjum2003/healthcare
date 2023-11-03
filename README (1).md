@@ -10,11 +10,11 @@ Dylan McMorrow[ @DylanMcMorrow ](https://github.com/dylanmcmorrow5/MIST4610Group
 
 Aafreen Anjum [AafreenAnjum](https://github.com/aanjum2003/healthcare/blob/main/README%20(1).md)
 
-Jack Drummond https://github.com/jdrum7/MISTproject
+Jack Drummond [JackDrummond]https://github.com/jdrum7/MISTproject
 
 Ishi Gupta [@IshiGupta](https://github.com/ishigupta24/healthcare/blob/main/README%20(1).md)
 
-Miral Lakhani https://github.com/mirLakhani/healthcare1
+Miral Lakhani [@Miral Lakhani]  https://github.com/mirLakhani/healthcare1
 
 
 ## Problem 
