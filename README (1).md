@@ -4,11 +4,14 @@
 ## Team Name
 39217 Group 7
 ## Team Members
-Dylan McMorrow [paste link to Github Repository here]
-Aafreen Anjum [paste link to Github Repository here]
-Jack Drummond [paste link to Github Repository here]
-Ishi Gupta [paste link to Github Repository here]
-Miral Lakhani [paste link to Github Repository here]
+Team Members:
+
+Dylan McMorrow @DylanMcMorrow 
+Aafreen Anjum AafreenAnjum
+Jack Drummond @JackDrummond
+Ishi Gupta @IshiGupta
+Miral Lakhani https://github.com/mirLakhani/healthcare1
+
 
 ## Problem Description
 Our primary goal is to create a relational database that significantly improves the efficiency and quality of a medical center's operations. The central entity in our database model is the "Visit Entity," representing each medical patient's visit. This "Visit Entity" is intricately linked with other key components, including the "Patient," "Visit Record," "Physician," "Room," and "Billing" entities. Our focus is on accurately modeling these relationships, generating realistic sample data, and populating these entities with relevant attributes.
