@@ -8,7 +8,7 @@ Team Members:
 
 Dylan McMorrow[ @DylanMcMorrow ](https://github.com/dylanmcmorrow5/MIST4610GroupProject1/blob/main/README.md)
 
-Aafreen Anjum [AafreenAnjum](https://github.com/aanjum2003/healthcare/blob/main/README%20(1).md)
+Aafreen Anjum [@AafreenAnjum](https://github.com/aanjum2003/healthcare/blob/main/README%20(1).md)
 
 Jack Drummond [@JackDrummond](https://github.com/jdrum7/MISTproject)
 
